@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>이피엔스</copyright>
-    <lastBuildDate>Fri, 08 May 2020 15:10:20 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 13:54:32 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.05.11</title>
+      <link>/2020/05/11/release_note_20200511/</link>
+      <pubDate>Mon, 11 May 2020 13:54:32 +0900</pubDate>
+      
+      <guid>/2020/05/11/release_note_20200511/</guid>
+      <description>Release Note Verions 1.0.20200511 1. 개발사항 2. 수정사항  공통사항 &amp;gt; 데이터 조회및 등록/수정 에러시에 에러코드 표출 상품목록 &amp;gt; 리스트 전체 조회시에 타이틀변경 상품수정 &amp;gt; 최초 화면 로딩시에 화면 최상단으로 이동  3. 버그사항  상품등록 &amp;gt; 상품고시등록시 버그 브랜드관리 &amp;gt; 브랜드수정시 수정버그 판매자관리 &amp;gt; 판매자 등록시에 통신판매신고번호 버그 수정  12자리 -&amp;gt; 15자리 변경    </description>
+    </item>
     
     <item>
       <title>쉐리샵 브랜드관 Release Note-2020.05.08</title>
@@ -19,15 +28,6 @@
       
       <guid>/2020/05/08/release_note_20200508/</guid>
       <description>Release Note Verions 1.0.20200508 1. 개발사항  운영관리 &amp;gt; 상품 Q&amp;amp;A 구현 운영관리 &amp;gt; 구매상품문의 구현  2. 수정사항  공통사항 &amp;gt; 데이터 조회및 등록/수정 에러시에 에러코드 표출 상품목록 &amp;gt; 리스트 전체 조회시에 타이틀변경 상품수정 &amp;gt; 최초 화면 로딩시에 화면 최상단으로 이동  3. 버그사항  상품등록 &amp;gt; 상품고시등록시 버그수정 브랜드관리 &amp;gt; 브랜드수정시 수정버그  </description>
-    </item>
-    
-    <item>
-      <title>쉐리샵 어드민 Release Note-2020.05.08</title>
-      <link>/2020/05/08/release_note_20200508/</link>
-      <pubDate>Fri, 08 May 2020 14:36:09 +0900</pubDate>
-      
-      <guid>/2020/05/08/release_note_20200508/</guid>
-      <description>Release Note Verions 1.0.20200508 1. 개발사항 2. 수정사항  공통사항 &amp;gt; 데이터 조회및 등록/수정 에러시에 에러코드 표출 상품목록 &amp;gt; 리스트 전체 조회시에 타이틀변경 상품수정 &amp;gt; 최초 화면 로딩시에 화면 최상단으로 이동  3. 버그사항  상품등록 &amp;gt; 상품고시등록시 버그 브랜드관리 &amp;gt; 브랜드수정시 수정버그  </description>
     </item>
     
   </channel>
