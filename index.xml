@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>이피엔스</copyright>
-    <lastBuildDate>Mon, 11 May 2020 13:54:32 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 11:59:52 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.05.13</title>
+      <link>/2020/05/13/release_note_20200513/</link>
+      <pubDate>Wed, 13 May 2020 11:59:52 +0900</pubDate>
+      
+      <guid>/2020/05/13/release_note_20200513/</guid>
+      <description>Release Note Verions 1.0.20200513 1. 개발사항  CORS 제거후 이미지 업로드 기능  2. 수정사항  상품목록 &amp;gt; 상품코드검색 기능 카테고리관리 &amp;gt; 공백으로 저장기능 안됨  3. 버그사항  카테고리관리 &amp;gt; 공백으로 표현되는 항목 제거  </description>
+    </item>
     
     <item>
       <title>쉐리샵 어드민 Release Note-2020.05.11</title>
