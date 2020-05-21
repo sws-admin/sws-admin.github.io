@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>이피엔스</copyright>
-    <lastBuildDate>Fri, 15 May 2020 18:15:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 11:57:06 +0900</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>쉐리샵 브랜드관 Release Note-2020.05.21</title>
+      <link>/2020/05/21/brand_20200521/</link>
+      <pubDate>Thu, 21 May 2020 11:57:06 +0900</pubDate>
+      
+      <guid>/2020/05/21/brand_20200521/</guid>
+      <description>Release Note Verions 1.0.20200521 1. 개발사항  판매자관리 &amp;gt; 인증서류 업로드 기능 추가 운영관리 &amp;gt; 브랜드별택배사 도서산간추가배송비정책 상품관리 &amp;gt; 상품 수량 수정시에 발송된 상품에 관련된 수량동기화 체크  2. 수정사항  공통 &amp;gt; 리스트 숫자표기 변경  한 테이블에 관련된 숫자가 아닌 전체 데이터에 관련된 숫자표기   회원가입 &amp;gt; 판매자등록시에 인증서류 필수 판매자관리 &amp;gt; 부운영자 등록시에 브랜드 지정 선택사항으로 변경 판매자관리 &amp;gt; 판매자 회사인감도장이미지 업로드 기능 삭제  3. 버그사항  판매자관리 &amp;gt; 최고관리자 판매자 수정시 인증서류 체크 버그 수정  </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.05.21</title>
+      <link>/2020/05/21/admin_20200521/</link>
+      <pubDate>Thu, 21 May 2020 11:56:36 +0900</pubDate>
+      
+      <guid>/2020/05/21/admin_20200521/</guid>
+      <description>Release Note Verions 1.0.20200521 1. 개발사항  판매자관리 &amp;gt; 인증서류 업로드 기능 추가 상품관리 &amp;gt; 상품 수량 수정시에 발송된 상품에 관련된 수량동기화 체크  2. 수정사항  공통 &amp;gt; 리스트 숫자표기 변경  한 테이블에 관련된 숫자가 아닌 전체 데이터에 관련된 숫자표기   입점업체관리 &amp;gt; 판매자 등록시에 인증서류 필수 판매자관리 &amp;gt; 판매자 회사인감도장이미지 업로드 기능 삭제  3. 버그사항 </description>
+    </item>
     
     <item>
       <title>쉐리샵 브랜드관 Release Note-2020.05.15</title>
