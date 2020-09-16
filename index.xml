@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>쉐리샵 Release Note</title>
+    <link>/</link>
+    <description>Recent content on 쉐리샵 Release Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>이피엔스</copyright>
+    <lastBuildDate>Thu, 03 Sep 2020 18:30:07 +0900</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>쉐리샵 클라이언트 Release Note-2020.09.03</title>
+      <link>/2020/09/03/client_20200903/</link>
+      <pubDate>Thu, 03 Sep 2020 18:30:07 +0900</pubDate>
+      
+      <guid>/2020/09/03/client_20200903/</guid>
+      <description>HotFix Verions 1.0.20200903 1. 수정사항  검색 &amp;gt; 브랜드 검색 후, 브랜드 페이지 이동 시, 이전 상품 남아있던 버그 수정 주문/배송 &amp;gt; 리뷰 작성 버튼 : 구매확정 상태에서 구매확정 일자 없을 때에도 나오도록 예외처리 개인정보처리방침 &amp;gt; 휴대폰 소액결제 항목 삭제 주문 상품 &amp;gt; 부분취소 조건 수정  가상계좌 주문이 아닐 것, 주문 상태가 입금대기, 결제완료 상태일 것   주문 목록 &amp;gt; 취소 버튼 조건 수정  주문 상태가 입금대기, 결제 완료 상태 일 것   주문/배송, 취소내역 &amp;gt; 상세 보기의 상세금액 내역 수정  </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 클라이언트 Release Note-2020.09.02</title>
+      <link>/2020/09/02/client_20200902/</link>
+      <pubDate>Wed, 02 Sep 2020 18:30:07 +0900</pubDate>
+      
+      <guid>/2020/09/02/client_20200902/</guid>
+      <description>Release Note Verions 1.0.20200902 1. 개발사항  구매 내역  주문 상품 전체 취소 기능 추가 주문 취소 기능 추가   Log 수집 기능 추가 &amp;gt; 주문 정보와 결제 정보가 미일치 시 Log 수집  2. 수정사항  상품 주문 등록 &amp;gt; 부분취소 구분을 위한 파라미터 추가 구매 내역 &amp;gt; 부분 취소 고도화 (옵션, 추가상품 선택 가능) 검색 &amp;gt; 검색어 입력 후, 탭 이동 시, 검색어 유지 &amp;amp; 검색 장바구니 &amp;gt; 옵션 상품에서 marketPrice 제거 이용약관, 개인정보 처리방침 v2.</description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 클라이언트 Release Note-2020.07.28</title>
+      <link>/2020/07/28/client_20200728/</link>
+      <pubDate>Tue, 28 Jul 2020 14:30:07 +0900</pubDate>
+      
+      <guid>/2020/07/28/client_20200728/</guid>
+      <description>Release Note Verions 1.0.20200728 1. 수정사항  주문정보 등록 페이지 &amp;gt; 상품정보 컴포넌트 수정  주문 상품 옵션, 추가상품 정보 스타일 수정   주문 취소 신청 &amp;gt; 부분 취소 연계, 취소신청 개수 수정 페이스북 인앱 브라우저 관련 스타일 수정  2. 버그사항  상품구매 &amp;gt; 추가상품 예외처리 수정 장바구니 &amp;gt; 개수 버그 수정 취소/교환/반품 &amp;gt; 초기 목록 중복 호출 버그 수정  </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 브랜드관 Release Note-2020.05.21</title>
+      <link>/2020/05/21/brand_20200521/</link>
+      <pubDate>Thu, 21 May 2020 11:57:06 +0900</pubDate>
+      
+      <guid>/2020/05/21/brand_20200521/</guid>
+      <description>Release Note Verions 1.0.20200521 1. 개발사항  판매자관리 &amp;gt; 인증서류 업로드 기능 추가 운영관리 &amp;gt; 브랜드별택배사 도서산간추가배송비정책 상품관리 &amp;gt; 상품 수량 수정시에 발송된 상품에 관련된 수량동기화 체크  2. 수정사항  공통 &amp;gt; 리스트 숫자표기 변경  한 테이블에 관련된 숫자가 아닌 전체 데이터에 관련된 숫자표기   회원가입 &amp;gt; 판매자등록시에 인증서류 필수 판매자관리 &amp;gt; 부운영자 등록시에 브랜드 지정 선택사항으로 변경 판매자관리 &amp;gt; 판매자 회사인감도장이미지 업로드 기능 삭제  3. 버그사항  판매자관리 &amp;gt; 최고관리자 판매자 수정시 인증서류 체크 버그 수정  </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.05.21</title>
+      <link>/2020/05/21/admin_20200521/</link>
+      <pubDate>Thu, 21 May 2020 11:56:36 +0900</pubDate>
+      
+      <guid>/2020/05/21/admin_20200521/</guid>
+      <description>Release Note Verions 1.0.20200521 1. 개발사항  판매자관리 &amp;gt; 인증서류 업로드 기능 추가 상품관리 &amp;gt; 상품 수량 수정시에 발송된 상품에 관련된 수량동기화 체크  2. 수정사항  공통 &amp;gt; 리스트 숫자표기 변경  한 테이블에 관련된 숫자가 아닌 전체 데이터에 관련된 숫자표기   입점업체관리 &amp;gt; 판매자 등록시에 인증서류 필수 판매자관리 &amp;gt; 판매자 회사인감도장이미지 업로드 기능 삭제  3. 버그사항 </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 브랜드관 Release Note-2020.05.15</title>
+      <link>/2020/05/15/brand_20200515/</link>
+      <pubDate>Fri, 15 May 2020 18:15:31 +0900</pubDate>
+      
+      <guid>/2020/05/15/brand_20200515/</guid>
+      <description>Release Note Verions 1.0.20200515 1. 개발사항  최고관리자 &amp;gt; 판매자관리 기능 오픈 판매자관리 &amp;gt; 전체 판매자 목록 조회 기능 판매자관리 &amp;gt; 판매자 수정 기능 판매자관리 &amp;gt; 판매자 하위의 브랜드 조회기능 판매자관리 &amp;gt; 판매자 하위의 브랜드 부 운영자 계정 생성 기능 판매자관리 &amp;gt; 판매자 하위의 브랜드 부 운영자 수정 기능 판매자관리 &amp;gt; 판매자 하위의 브랜드 부 운영자 계정 삭제 기능  2. 수정사항  판매자관리 &amp;gt; 부 운영자 계정 수정완료후 해당 판매자 리스트 기본 조회  3.</description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.05.15</title>
+      <link>/2020/05/15/admin_20200515/</link>
+      <pubDate>Fri, 15 May 2020 18:13:54 +0900</pubDate>
+      
+      <guid>/2020/05/15/admin_20200515/</guid>
+      <description>Release Note Verions 1.0.20200515 1. 개발사항 2. 수정사항  공통 &amp;gt; 어드민 계정 패스워드 변경 카테고리관리 &amp;gt; 카테고리 수정시에 공백값 체크 기능 기획전관리 &amp;gt; UI 수정  3. 버그사항  카테고리관리 &amp;gt; 카테고리 삭제시에 연관없는 카테고리 삭제 버그 수정 상품관리 &amp;gt; 상품 수정시에 일반옵션 버그 수정 주문관리 &amp;gt; 전체주문조회시 조회 버그 수정  </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.05.13</title>
+      <link>/2020/05/13/admin_20200513/</link>
+      <pubDate>Wed, 13 May 2020 11:59:52 +0900</pubDate>
+      
+      <guid>/2020/05/13/admin_20200513/</guid>
+      <description>Release Note Verions 1.0.20200513 1. 개발사항  CORS 제거후 이미지 업로드 기능 카테고리관리 &amp;gt; 카테고리 삭제 기능 추가 상품관리 &amp;gt; 상품목록 &amp;gt; 결과내 검색기능 추가 브랜드관리 &amp;gt; 브랜드 목록 &amp;gt; 결과 내 검색기능 추가 운영관리 &amp;gt; 전 목록 &amp;gt; 결과 내 검색기능 추가  2. 수정사항  상품목록 &amp;gt; 상품코드검색 기능 카테고리관리 &amp;gt; 공백으로 저장기능 안됨 상품관리 &amp;gt; 상품목록에 품절 및 진열 버튼 다시 추가  3. 버그사항  공통 &amp;gt; 판매자 선택시에 브랜드선택값에 공백이 생기는 버그 제거 공통 &amp;gt; 알림창으로 error코드 표출제거 카테고리관리 &amp;gt; 공백으로 표현되는 항목 제거  </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.05.11</title>
+      <link>/2020/05/11/admin_20200511/</link>
+      <pubDate>Mon, 11 May 2020 13:54:32 +0900</pubDate>
+      
+      <guid>/2020/05/11/admin_20200511/</guid>
+      <description>Release Note Verions 1.0.20200511 1. 개발사항 2. 수정사항  공통사항 &amp;gt; 데이터 조회및 등록/수정 에러시에 에러코드 표출 상품목록 &amp;gt; 리스트 전체 조회시에 타이틀변경 상품수정 &amp;gt; 최초 화면 로딩시에 화면 최상단으로 이동  3. 버그사항  상품등록 &amp;gt; 상품고시등록시 버그 브랜드관리 &amp;gt; 브랜드수정시 멈춤버그 수정 판매자관리 &amp;gt; 판매자 등록시에 통신판매신고번호 버그 수정  12자리 -&amp;gt; 15자리 변경    </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 브랜드관 Release Note-2020.05.08</title>
+      <link>/2020/05/08/brand_20200508/</link>
+      <pubDate>Fri, 08 May 2020 15:10:20 +0900</pubDate>
+      
+      <guid>/2020/05/08/brand_20200508/</guid>
+      <description>Release Note Verions 1.0.20200508 1. 개발사항  운영관리 &amp;gt; 상품 Q&amp;amp;A 구현 운영관리 &amp;gt; 구매상품문의 구현  2. 수정사항  공통사항 &amp;gt; 데이터 조회및 등록/수정 에러시에 에러코드 표출 상품목록 &amp;gt; 리스트 전체 조회시에 타이틀변경 상품수정 &amp;gt; 최초 화면 로딩시에 화면 최상단으로 이동  3. 버그사항  상품등록 &amp;gt; 상품고시등록시 버그수정 브랜드관리 &amp;gt; 브랜드수정시 수정버그  </description>
+    </item>
+    
+  </channel>
+</rss>
