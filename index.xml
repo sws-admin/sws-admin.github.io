@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>이피엔스</copyright>
-    <lastBuildDate>Thu, 21 May 2020 11:57:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 18:30:07 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>쉐리샵 클라이언트 Release Note-2020.09.03</title>
+      <link>/2020/09/03/client_20200903/</link>
+      <pubDate>Thu, 03 Sep 2020 18:30:07 +0900</pubDate>
+      
+      <guid>/2020/09/03/client_20200903/</guid>
+      <description>HotFix Verions 1.0.20200903 1. 수정사항  검색 &amp;gt; 브랜드 검색 후, 브랜드 페이지 이동 시, 이전 상품 남아있던 버그 수정 주문/배송 &amp;gt; 리뷰 작성 버튼 : 구매확정 상태에서 구매확정 일자 없을 때에도 나오도록 예외처리 개인정보처리방침 &amp;gt; 휴대폰 소액결제 항목 삭제 주문 상품 &amp;gt; 부분취소 조건 수정  가상계좌 주문이 아닐 것, 주문 상태가 입금대기, 결제완료 상태일 것   주문 목록 &amp;gt; 취소 버튼 조건 수정  주문 상태가 입금대기, 결제 완료 상태 일 것   주문/배송, 취소내역 &amp;gt; 상세 보기의 상세금액 내역 수정  </description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 클라이언트 Release Note-2020.09.02</title>
+      <link>/2020/09/02/client_20200902/</link>
+      <pubDate>Wed, 02 Sep 2020 18:30:07 +0900</pubDate>
+      
+      <guid>/2020/09/02/client_20200902/</guid>
+      <description>Release Note Verions 1.0.20200902 1. 개발사항  구매 내역  주문 상품 전체 취소 기능 추가 주문 취소 기능 추가   Log 수집 기능 추가 &amp;gt; 주문 정보와 결제 정보가 미일치 시 Log 수집  2. 수정사항  상품 주문 등록 &amp;gt; 부분취소 구분을 위한 파라미터 추가 구매 내역 &amp;gt; 부분 취소 고도화 (옵션, 추가상품 선택 가능) 검색 &amp;gt; 검색어 입력 후, 탭 이동 시, 검색어 유지 &amp;amp; 검색 장바구니 &amp;gt; 옵션 상품에서 marketPrice 제거 이용약관, 개인정보 처리방침 v2.</description>
+    </item>
+    
+    <item>
+      <title>쉐리샵 클라이언트 Release Note-2020.07.28</title>
+      <link>/2020/07/28/client_20200728/</link>
+      <pubDate>Tue, 28 Jul 2020 14:30:07 +0900</pubDate>
+      
+      <guid>/2020/07/28/client_20200728/</guid>
+      <description>Release Note Verions 1.0.20200728 1. 수정사항  주문정보 등록 페이지 &amp;gt; 상품정보 컴포넌트 수정  주문 상품 옵션, 추가상품 정보 스타일 수정   주문 취소 신청 &amp;gt; 부분 취소 연계, 취소신청 개수 수정 페이스북 인앱 브라우저 관련 스타일 수정  2. 버그사항  상품구매 &amp;gt; 추가상품 예외처리 수정 장바구니 &amp;gt; 개수 버그 수정 취소/교환/반품 &amp;gt; 초기 목록 중복 호출 버그 수정  </description>
+    </item>
     
     <item>
       <title>쉐리샵 브랜드관 Release Note-2020.05.21</title>
