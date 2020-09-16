@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>이피엔스</copyright>
-    <lastBuildDate>Thu, 03 Sep 2020 18:30:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 22:18:11 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.09.16</title>
+      <link>/2020/09/16/admin_20200916/</link>
+      <pubDate>Wed, 16 Sep 2020 22:18:11 +0900</pubDate>
+      
+      <guid>/2020/09/16/admin_20200916/</guid>
+      <description>Release Note Verions 1.0.20200916 1. 개발사항  -  2. 수정, 개선 사항  운영관리 &amp;gt; 포인트 수동지급 기능 완료 운영관리 &amp;gt; 출금신청 페이징 처리 수정/복구 주문관리 &amp;gt; 페이징 처리 주문관리 &amp;gt; 포인트, 쿠폰 사용내역 조회 주문관리 &amp;gt; 상품 상세조회시에 포인트, 구폰 사용내역 조회 주문관리 &amp;gt; 주문취소 기능 구현  3. 버그  -  </description>
+    </item>
     
     <item>
       <title>쉐리샵 클라이언트 Release Note-2020.09.03</title>
