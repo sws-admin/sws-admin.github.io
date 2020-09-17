@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>이피엔스</copyright>
-    <lastBuildDate>Wed, 16 Sep 2020 22:18:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 17:23:42 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.09.17-hotfix</title>
+      <link>/2020/09/17/admin_20200917/</link>
+      <pubDate>Thu, 17 Sep 2020 17:23:42 +0900</pubDate>
+      
+      <guid>/2020/09/17/admin_20200917/</guid>
+      <description>Release Note Verions 1.0.20200916 1. 개발사항  -  2. 수정, 개선 사항  -  3. 버그  상품관리 &amp;gt; 상품목록 엑셀 다운로드시에 상품의 카테고리 추가 운영관리 &amp;gt; 쿠폰 갯수가 0일때, 무제한으로 표현되는 버그 수정  </description>
+    </item>
     
     <item>
       <title>쉐리샵 어드민 Release Note-2020.09.16</title>
