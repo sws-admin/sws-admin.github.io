@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>이피엔스</copyright>
-    <lastBuildDate>Thu, 17 Sep 2020 17:23:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 13:10:01 +0900</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>쉐리샵 어드민 Release Note-2020.09.22</title>
+      <link>/2020/09/22/admin_20200922/</link>
+      <pubDate>Tue, 22 Sep 2020 13:10:01 +0900</pubDate>
+      
+      <guid>/2020/09/22/admin_20200922/</guid>
+      <description>Release Note Verions 1.0.20200922 1. 개발사항  회원관리 &amp;gt; 문자전송 기능 (예약발송기능 및 다중메세지 전송기능)  2. 수정사항  주문관리 &amp;gt; 포인트 및 쿠폰 미사용 표현 : - -&amp;gt; 0값 주문관리 &amp;gt; 발주서 다운로드시에 값 추가  엑셀 다운로드 파일에 항목(우편번호, 주문시간, 총주문수량) 추가, 주문내역에 포인트, 리뷰머니, 쿠폰 할인금액 주가   주문관리 &amp;gt; 발주서 다운로드시에 기간 설정 필터 추가  3. 버그  -  </description>
+    </item>
     
     <item>
       <title>쉐리샵 어드민 Release Note-2020.09.17-hotfix</title>
